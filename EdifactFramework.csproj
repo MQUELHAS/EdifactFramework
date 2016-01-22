@@ -44,7 +44,6 @@
     <Compile Include="EdiHelper.cs" />
     <Compile Include="EdiSegments.cs" />
     <Compile Include="EDIStream.cs" />
-    <Compile Include="FilterSegment.cs" />
     <Compile Include="InterchangeContext.cs" />
     <Compile Include="ParserException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
